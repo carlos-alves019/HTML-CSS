@@ -1,4 +1,4 @@
-# 🌐 Repositório: web-projects-html-css
+# Repositório: web-projects-html-css
 
 # 🇵🇹 Descrição
 Projetos de prática em HTML e CSS, focados em desenvolvimento web,
